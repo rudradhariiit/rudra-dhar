@@ -30,10 +30,15 @@ My work explores how **Generative AI** can be used for Software Architecture Kno
 ## 📝 Publications
 
 > Dhar, Rudra & Vaidhyanathan, Karthik & Varma, Vasudeva. (2024). Can LLMs Generate Architectural Design Decisions? - An Exploratory Empirical Study. 10.1109/ICSA59870.2024.00016
+
 > Dhar, R., Dutta, S., Das, D. A Hybrid Model to Rank Sentences for Check-worthiness
+
 > Dutta, Subhabrata & Dhar, Rudra & Guha, Prantik & Murmu, Arpan & Das, Dipankar. (2023). A Multilingual Dataset for Identification of Factual Claims in Indian Twitter. 88-92. 10.1145/3574318.3574348.
+
 > Dhar, Rudra & Vaidhyanathan, Karthik & Varma, Vasudeva. (2024). Leveraging Generative AI for Architecture Knowledge Management. 163-166. 10.1109/ICSA-C63560.2024.00034.
+
 > Ankita Maity, Anubhav Sharma, Rudra Dhar, Tushar Abhishek, Manish Gupta, and Vasudeva Varma. 2023. Multilingual Bias Detection and Mitigation for Indian Languages.
+
 > Prantik Guha, Rudra Dhar, and Dipankar Das. 2022. JU_NLP at HinglishEval: Quality Evaluation of the Low-Resource Code-Mixed Hinglish Text.
 
 ---
